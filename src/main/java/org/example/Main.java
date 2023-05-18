@@ -9,6 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println("你好");
         System.out.println("3");
+        System.out.println("hot-fix");
 
         // 按 Shift+F10 或点击间距中的绿色箭头按钮以运行脚本。
         for (int i = 1; i <= 5; i++) {
